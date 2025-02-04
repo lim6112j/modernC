@@ -3,3 +3,5 @@ practice/.DS_Store
 .DS_Store
 practice/main
 practice/main.dSYM/Contents/Info.plist
+chapter3/src/.cache/clangd/index/
+chapter3/src_build/

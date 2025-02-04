@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/byeongcheollim/workspace/c-lang/modernC/chapter3/src",
+  "command": "/usr/bin/gcc   -std=gnu2x -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/chapter3.dir/condition.c.o -c /Users/byeongcheollim/workspace/c-lang/modernC/chapter3/src/condition.c",
+  "file": "/Users/byeongcheollim/workspace/c-lang/modernC/chapter3/src/condition.c",
+  "output": "CMakeFiles/chapter3.dir/condition.c.o"
+}
+]
