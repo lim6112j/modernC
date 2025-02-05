@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
-set(CMAKE_C_STANDARD c2x)
-set(CMAKE_C_STANDARD_REQUIRED True)
 set(CMAKE_C_COMPILER gcc)
+set(CMAKE_C_STANDARD C23)
+set(CMAKE_C_STANDARD_REQUIRED True)
 project(chapter3)
 add_executable(chapter3 condition.c)
